@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration</title>
+</head>
+<body>
+	<h2>Home Page</h2>
+	<p>Welcome!</p>
+</body>
+</html>
